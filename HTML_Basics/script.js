@@ -1,0 +1,1 @@
+alert("Nirajs First Website")
